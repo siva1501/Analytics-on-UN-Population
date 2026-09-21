@@ -31,3 +31,4 @@ Thumbs.db
 
 .python-version
 pyproject.toml
+uv.lock
